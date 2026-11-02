@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "mem0": {
+      "source": "mem0ai/mem0",
+      "sourceType": "github",
+      "skillPath": "skills/mem0/SKILL.md",
+      "computedHash": "c0c046eb312787536973fa2dc2d471f7229494a141e12b09cd3c8cdcc8686324"
+    }
+  }
+}
